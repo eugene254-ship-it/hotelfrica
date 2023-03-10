@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fba2e56d-b75c-4e23-bc19-c17bf1249ee7"
+      }
+    },
+    "owner": "ginsky"
   }
 }
